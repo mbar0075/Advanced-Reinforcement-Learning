@@ -1,0 +1,153 @@
+absl-py==2.0.0
+ale-py==0.8.1
+anyio==4.1.0
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+arrow==1.3.0
+asttokens==2.4.1
+async-lru==2.0.4
+attrs==23.1.0
+Babel==2.14.0
+beautifulsoup4==4.12.2
+bleach==6.1.0
+box2d-py==2.3.5
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1700303426725/work/certifi
+cffi==1.16.0
+chardet==4.0.0
+charset-normalizer==3.3.2
+cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1697464713350/work
+colorama==0.4.6
+comm==0.2.0
+contourpy @ file:///D:/bld/contourpy_1699041486120/work
+cycler==0.10.0
+Cython==0.29.36
+debugpy==1.8.0
+decorator==4.4.2
+defusedxml==0.7.1
+etils==1.5.2
+exceptiongroup==1.2.0
+executing==2.0.1
+Farama-Notifications==0.0.4
+fasteners==0.19
+fastjsonschema==2.19.0
+filelock==3.9.0
+fonttools @ file:///D:/bld/fonttools_1701530852748/work
+fqdn==1.5.1
+fsspec==2023.4.0
+future @ file:///home/conda/feedstock_root/build_artifacts/future_1673596611778/work
+glfw==2.6.3
+gym @ file:///D:/bld/gym_1644329041679/work
+gym-notices @ file:///home/conda/feedstock_root/build_artifacts/gym-notices_1671541680412/work
+gymnasium==0.29.1
+idna==3.6
+imageio==2.33.1
+imageio-ffmpeg==0.4.9
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1701632192416/work
+importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1699364556997/work
+ipykernel==6.27.1
+ipython==8.18.1
+isoduration==20.11.0
+jax==0.4.21
+jaxlib==0.4.21
+jedi==0.19.1
+Jinja2==3.1.2
+json5==0.9.14
+jsonpointer==2.4
+jsonschema==4.20.0
+jsonschema-specifications==2023.11.2
+jupyter-events==0.9.0
+jupyter-lsp==2.2.1
+jupyter_client==8.6.0
+jupyter_core==5.5.0
+jupyter_server==2.12.1
+jupyter_server_terminals==0.5.0
+jupyterlab==4.0.9
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.25.2
+kiwisolver @ file:///D:/bld/kiwisolver_1695380110085/work
+lz4==4.3.2
+MarkupSafe==2.1.3
+matplotlib @ file:///D:/bld/matplotlib-suite_1660353846959/work
+matplotlib-inline==0.1.6
+mistune==3.0.2
+ml-dtypes==0.3.1
+moviepy==1.0.3
+mpmath==1.3.0
+mujoco==3.0.1
+mujoco-py==2.1.2.14
+munkres==1.1.4
+nbclient==0.9.0
+nbconvert==7.12.0
+nbformat==5.9.2
+nest-asyncio==1.5.8
+networkx==3.0
+notebook==7.0.6
+notebook_shim==0.2.3
+numpy==1.24.1
+opencv-python==4.8.1.78
+opt-einsum==3.3.0
+overrides==7.4.0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1696202382185/work
+pandocfilters==1.5.0
+parso==0.8.3
+Pillow @ file:///D:/bld/pillow_1660386017005/work
+platformdirs==4.1.0
+proglog==0.1.10
+prometheus-client==0.19.0
+prompt-toolkit==3.0.42
+psutil==5.9.6
+pure-eval==0.2.2
+pycparser==2.21
+pygame==2.5.2
+pyglet @ file:///D:/bld/pyglet_1695497744665/work
+Pygments==2.17.2
+PyOpenGL==3.1.7
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1690737849915/work
+pyproject-toml==0.0.10
+PyQt5==5.15.4
+PyQt5-sip @ file:///D:/bld/pyqt-split_1652284266517/work/pyqt_sip
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-json-logger==2.0.7
+pywin32==306
+pywinpty==2.0.12
+PyYAML==6.0.1
+pyzmq==25.1.2
+referencing==0.32.0
+renderlab==0.1.20230421184216
+requests==2.31.0
+requests-toolbelt==1.0.0
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+roboflow==1.1.9
+rpds-py==0.13.2
+scipy==1.11.4
+Send2Trash==1.8.2
+Shimmy==0.2.1
+sip @ file:///D:/bld/sip_1646101362141/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+sniffio==1.3.0
+soupsieve==2.5
+stack-data==0.6.3
+swig==4.1.1.post1
+sympy==1.12
+terminado==0.18.0
+tinycss2==1.2.1
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+tomli==2.0.1
+torch==2.1.1+cu118
+torchaudio==2.1.1+cu118
+torchvision==0.16.1+cu118
+tornado @ file:///D:/bld/tornado_1695373623388/work
+tqdm==4.66.1
+traitlets==5.14.0
+types-python-dateutil==2.8.19.14
+typing_extensions==4.9.0
+ufal.pybox2d==2.3.10.2
+unicodedata2 @ file:///D:/bld/unicodedata2_1695847967701/work
+uri-template==1.3.0
+urllib3==2.1.0
+wcwidth==0.2.12
+webcolors==1.13
+webencodings==0.5.1
+websocket-client==1.7.0
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
