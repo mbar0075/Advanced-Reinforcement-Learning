@@ -126,13 +126,40 @@ Below are the videos of the trained agents from Experiment 1 and Experiment 2 in
 
 ### Experiment 1
 #### Standard / Normal DQN
+  
+https://github.com/mbar0075/Advanced-Reinforcement-Learning/assets/103250564/476b6a10-c9ad-4bb2-8074-e915e6856af1
+
 #### Double DQN
+
+
+https://github.com/mbar0075/Advanced-Reinforcement-Learning/assets/103250564/69c915be-c58c-48f5-97a4-19a429282ff2
+
+
 #### Dueling DQN
+
+
+https://github.com/mbar0075/Advanced-Reinforcement-Learning/assets/103250564/74e6db92-6014-403c-bf48-149b0e5f33e0
+
+
 #### Double Dueling DQN
+
+
+https://github.com/mbar0075/Advanced-Reinforcement-Learning/assets/103250564/883f0e30-96f6-4a3f-97e3-45d5018bf58e
+
+
 
 ### Experiment 2
 #### PPO with GAE
+
+
+https://github.com/mbar0075/Advanced-Reinforcement-Learning/assets/103250564/123dadff-66e8-4c11-b330-13f7644ce3c5
+
+
 #### DDPG
+
+
+https://github.com/mbar0075/Advanced-Reinforcement-Learning/assets/103250564/120891b0-d2f1-4cc6-b39b-3e7e1259357a
+
 
 
 ## Results & Discussion
