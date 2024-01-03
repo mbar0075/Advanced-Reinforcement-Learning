@@ -1,5 +1,7 @@
 # Advanced Reinforcement Learning
 
+<p align="justify">
+
 This repository contains all the code and findings from the research study `"Solving Control Problems using Reinforcement Learning"`.
 
 ## Introduction
@@ -235,3 +237,5 @@ The experiments detailed in this research offered valuable insights into the nua
 Moreover, all DQNs concluded their environments much faster than the actor-critic methods in Experiment 2. This was an expected outcome due to the complexity introduced by continuous action spaces, expanding the state-action dimension and exposing the agent to additional noise during training.
 
 Experiment 2 revealed distinct dynamics between PPO with GAE and DDPG. PPO demonstrated quicker convergence and higher maximum rewards due to parallelization. However, it required a longer training period compared to DDPG, which was trained in a single environment. These observations highlight the trade-offs between different algorithms in terms of convergence speed, rewards, and training duration.
+
+</p>
